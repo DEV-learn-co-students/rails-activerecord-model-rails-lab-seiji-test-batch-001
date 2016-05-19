@@ -1,0 +1,1 @@
+# rails-activerecord-model-rails-lab-seiji-test-batch-001
